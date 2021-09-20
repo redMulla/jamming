@@ -1,5 +1,5 @@
 const clientID = '9e8ae60a43d9478bb1b4f8e44c4600df';
-const redirectUri = "http://flimsy-dad.surge.sh";
+const redirectUri = "https://mullareactsite.netlify.app";
 
 let accessToken;
 
